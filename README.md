@@ -15,7 +15,7 @@ This project was a unqiue way to explore RF circuits.
 View the BOM at [bom.csv](pcb/bom/bom[set].csv).
 
 #
-Changlog MMDDYYYY
+Changlog MMDDYYYY  
 11/17/2026: RELEASE
 #
 Made for HC Fallen 2026
