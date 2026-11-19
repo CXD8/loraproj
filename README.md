@@ -2,6 +2,8 @@
 This project aims to be a convent way to enable Lora communication on any mobile device wirelessly. It aims to enable all kinds of P2P features from messaging to gaming.
 This project was a unqiue way to explore RF circuits.
 ## PCB
+![PCB](images/lora_pcbf.PNG)
+![PCB](images/lora_pcbb.PNG)
 ![PCB](images/lora_pcb2.PNG)
 ![PCB](images/lora_pcb1.PNG)
 ## SCHEMATICS
