@@ -4,10 +4,11 @@ This project was a unqiue way to explore RF circuits.
 
 ##
 Features:
-- ESP S3 N16R8 (2.5ghz + BLE)
-- SX1276 (DUAL SUB GHZ LORA 915mhz +  470mhz - use in accordance to regulations use in your jurisdiction)
+- ESPRESSIF ESP S3 N16R8 (2.5ghz + BLE)
+- SEMTECH SX1276 (DUAL SUB GHZ LORA 915mhz +  470mhz - use in accordance to regulations use in your jurisdiction)
 - Wireless connectivity to mobile devices via wifi AP mode or BLE website application
-- Long battery life ~1000mah battery
+- Long battery life ~1000mah battery using Microchip MCP73871
+- USC 5V power input
 - Compact and slim device ~13mm width
 - Magsafe compatible
 
