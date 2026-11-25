@@ -22,6 +22,10 @@ Features:
 ![SCH](images/lora_sch1.PNG)
 ![SCH](images/lora_sch2.PNG)
 ![SCH](images/lora_sch3.PNG)
+## HOUSING
+![HOUSING](images/housing.png)
+
+
 ## BOM
 View the BOM at [bom.csv](pcb/bom/bom[set].csv).
 
