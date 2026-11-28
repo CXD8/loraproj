@@ -1,6 +1,8 @@
 # loraproj
-This project aims to be a convent way to enable Lora communication on any mobile device wirelessly. Connect to the Lora device using BLE or to its wifi connection. It aims to enable all kinds of P2P features from messaging to gaming.
-This project was a unqiue way to explore RF circuits.
+This project aims to be a convent way to enable Lora communication on any mobile device wirelessly.  
+Connect to the Lora device using BLE or to its wifi connection.  
+It aims to enable all kinds of P2P features from messaging to gaming.  
+This project was a unqiue way to explore RF circuits.  
 
 ## Features
 - ESPRESSIF ESP S3 N16R8 (2.5ghz + BLE)
@@ -11,6 +13,9 @@ This project was a unqiue way to explore RF circuits.
 - Compact and slim device ~13mm width
 - Magsafe compatible
 
+## How to use
+- Flash the firmware using Ardiuno IDE
+- IF using AP mode, connect to the ESP32's wifi connection or BLE.
 ## PCB
 ![PCB](images/lora_pcbf.PNG)
 ![PCB](images/lora_pcbb.png)
